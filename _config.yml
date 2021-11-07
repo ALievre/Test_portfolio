@@ -1,0 +1,10 @@
+title: My portfolio
+author: Agathe Lievre
+email: lievreagathe@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Ce portfolio présente mon parcours lors de ma formation Innovative Smart System. Il fait office de synthèse de ce dernier semestre à l’INSA lors de l’année scolaire 2021/2022. Il a pour objectif d’effectuer une évaluation de mon travail par le jury.
+# social links
+# twitter_username: agathe # DO NOT include the @ character, or else the build will fail!
+github_username:  ALievre # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
